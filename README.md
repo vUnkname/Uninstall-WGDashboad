@@ -1,0 +1,2 @@
+# Uninstall-WGDashboad
+Uninstall-WGDashboad
